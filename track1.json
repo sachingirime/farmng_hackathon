@@ -1,0 +1,1902 @@
+{
+    "waypoints": [
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {},
+              "real": 1.0
+            }
+          },
+          "translation": {}
+        },
+        "frameA": "world",
+        "frameB": "robot",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {},
+              "real": 1.0
+            }
+          },
+          "translation": {}
+        },
+        "frameA": "world",
+        "frameB": "robot",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {},
+              "real": 1.0
+            }
+          },
+          "translation": {
+            "x": -10.0
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {},
+              "real": 1.0
+            }
+          },
+          "translation": {
+            "x": -10.0
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.05032476993168661
+              },
+              "real": 0.9987329060020615
+            }
+          },
+          "translation": {
+            "x": -9.748269819423895
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_0",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.10052200743551706
+              },
+              "real": 0.9949348350626456
+            }
+          },
+          "translation": {
+            "x": -9.497814693732117,
+            "y": 0.025304423083615316
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_1",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.15046450327478303
+              },
+              "real": 0.9886154122075343
+            }
+          },
+          "translation": {
+            "x": -9.251171815966737,
+            "y": 0.07565692709771973
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_2",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.20002569377604446
+              },
+              "real": 0.9797906520422678
+            }
+          },
+          "translation": {
+            "x": -9.010839759840765,
+            "y": 0.15054742456663278
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_3",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.2490799815652717
+              },
+              "real": 0.9684829181681234
+            }
+          },
+          "translation": {
+            "x": -8.779253168362224,
+            "y": 0.24921725004651335
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_4",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.297503053855203
+              },
+              "real": 0.9547208665085456
+            }
+          },
+          "translation": {
+            "x": -8.558758090097351,
+            "y": 0.37066684565657027
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_5",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.34517219747731775
+              },
+              "real": 0.9385393726896488
+            }
+          },
+          "translation": {
+            "x": -8.35158821292472,
+            "y": 0.5136658869301237
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_6",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.3919666098600752
+              },
+              "real": 0.9199794436588243
+            }
+          },
+          "translation": {
+            "x": -8.159842236040191,
+            "y": 0.6767657464073055
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_7",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.43776770516534047
+              },
+              "real": 0.8990881137654259
+            }
+          },
+          "translation": {
+            "x": -7.985462609441754,
+            "y": 0.8583141687090932
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_8",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.48245941480719334
+              },
+              "real": 0.8759183255668878
+            }
+          },
+          "translation": {
+            "x": -7.830215856270279,
+            "y": 1.0564720084293364
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_9",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5259284815915442
+              },
+              "real": 0.8505287956623298
+            }
+          },
+          "translation": {
+            "x": -7.69567467734737,
+            "y": 1.2692318612844098
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_10",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5680647467311558
+              },
+              "real": 0.8229838658936565
+            }
+          },
+          "translation": {
+            "x": -7.583202019197249,
+            "y": 1.4944383997807968
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_11",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6087614290087205
+              },
+              "real": 0.7933533402912352
+            }
+          },
+          "translation": {
+            "x": -7.493937266948862,
+            "y": 1.729810207393588
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_12",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6479153953805388
+              },
+              "real": 0.7617123081773594
+            }
+          },
+          "translation": {
+            "x": -7.428784701988669,
+            "y": 1.9729628900684588
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_13",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6854274223350397
+              },
+              "real": 0.7281409538757886
+            }
+          },
+          "translation": {
+            "x": -7.388404341291901,
+            "y": 2.221433230919993
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_14",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7212024473438144
+              },
+              "real": 0.6927243535095996
+            }
+          },
+          "translation": {
+            "x": -7.373205251232875,
+            "y": 2.472704143431283
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_15",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7551498097679334
+              },
+              "real": 0.655552259402295
+            }
+          },
+          "translation": {
+            "x": -7.383341403607685,
+            "y": 2.72423017037067
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_16",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7871834806090502
+              },
+              "real": 0.6167188726285433
+            }
+          },
+          "translation": {
+            "x": -7.418710115849112,
+            "y": 2.9734632701131836
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_17",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8172222805230546
+              },
+              "real": 0.5763226042909455
+            }
+          },
+          "translation": {
+            "x": -7.47895309123491,
+            "y": 3.2178786291427355
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_18",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8451900855437947
+              },
+              "real": 0.5344658261278014
+            }
+          },
+          "translation": {
+            "x": -7.563460048551785,
+            "y": 3.455000239245911
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_19",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8710160199955155
+              },
+              "real": 0.4912546110838777
+            }
+          },
+          "translation": {
+            "x": -7.6713749044454085,
+            "y": 3.6824259802919435
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_20",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8946346361051474
+              },
+              "real": 0.4467984645016262
+            }
+          },
+          "translation": {
+            "x": -7.801604445827198,
+            "y": 3.8978519545020363
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_21",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9159860798592658
+              },
+              "real": 0.40121004661405835
+            }
+          },
+          "translation": {
+            "x": -7.952829404483523,
+            "y": 4.09909582569386
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_22",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9350162426854147
+              },
+              "real": 0.35460488704253595
+            }
+          },
+          "translation": {
+            "x": -8.123517821697906,
+            "y": 4.284118927066979
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_23",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9516768985734004
+              },
+              "real": 0.3071010920229912
+            }
+          },
+          "translation": {
+            "x": -8.311940567498173,
+            "y": 4.451046913570042
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_24",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9659258262890683
+              },
+              "real": 0.25881904510252113
+            }
+          },
+          "translation": {
+            "x": -8.51618885731347,
+            "y": 4.598188749634451
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_25",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9777269163708469
+              },
+              "real": 0.2098811020648479
+            }
+          },
+          "translation": {
+            "x": -8.734193588591621,
+            "y": 4.724053839922504
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_26",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.987050262637913
+              },
+              "real": 0.1604112808577606
+            }
+          },
+          "translation": {
+            "x": -8.963746301490533,
+            "y": 4.827367129549872
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_27",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9938722379780749
+              },
+              "real": 0.11053494730832031
+            }
+          },
+          "translation": {
+            "x": -9.202521551304905,
+            "y": 4.90708202081219
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_28",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9981755542233175
+              },
+              "real": 0.06037849742228639
+            }
+          },
+          "translation": {
+            "x": -9.448100465988201,
+            "y": 4.962390975565043
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_29",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9999493059612697
+              },
+              "real": 0.010069037072875847
+            }
+          },
+          "translation": {
+            "x": -9.697995250124407,
+            "y": 4.99273369585176
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_30",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9991889981715696
+              },
+              "real": -0.04026594010941481
+            }
+          },
+          "translation": {
+            "x": -9.949674387116254,
+            "y": 4.997802799906539
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_31",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9958965576170911
+              },
+              "real": -0.0904988758296375
+            }
+          },
+          "translation": {
+            "x": -10.20058828428343,
+            "y": 4.977546936033138
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_32",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9900803279611641
+              },
+              "real": -0.14050247038509237
+            }
+          },
+          "translation": {
+            "x": -10.448195101077486,
+            "y": 4.932171302814491
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_33",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9817550486231642
+              },
+              "real": -0.1901500052667063
+            }
+          },
+          "translation": {
+            "x": -10.689986498765071,
+            "y": 4.862135570383376
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_34",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9709418174260522
+              },
+              "real": -0.2393156642875575
+            }
+          },
+          "translation": {
+            "x": -10.923513050726744,
+            "y": 4.768149223812339
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_35",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9576680371305242
+              },
+              "real": -0.2878748524247458
+            }
+          },
+          "translation": {
+            "x": -11.146409055956626,
+            "y": 4.651164375795861
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_36",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9419673459912651
+              },
+              "real": -0.3357045115666045
+            }
+          },
+          "translation": {
+            "x": -11.356416504393987,
+            "y": 4.512366121434692
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_37",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.923879532511287
+              },
+              "real": -0.3826834323650895
+            }
+          },
+          "translation": {
+            "x": -11.55140795131001,
+            "y": 4.353160532831545
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_38",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.9034504346103824
+              },
+              "real": -0.4286925614030539
+            }
+          },
+          "translation": {
+            "x": -11.729408069024688,
+            "y": 4.175160415116867
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_39",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8807318234632188
+              },
+              "real": -0.4736153028979891
+            }
+          },
+          "translation": {
+            "x": -11.888613657627834,
+            "y": 3.9801689682008443
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_40",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8557812723014477
+              },
+              "real": -0.5173378141776566
+            }
+          },
+          "translation": {
+            "x": -12.027411911989004,
+            "y": 3.7701615197634832
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_41",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.8286620105123144
+              },
+              "real": -0.5597492941788219
+            }
+          },
+          "translation": {
+            "x": -12.144396760005483,
+            "y": 3.5472655145336
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_42",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7994427634035014
+              },
+              "real": -0.6007422642379787
+            }
+          },
+          "translation": {
+            "x": -12.23838310657652,
+            "y": 3.3137389625719282
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_43",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7681975780402807
+              },
+              "real": -0.6402128404624878
+            }
+          },
+          "translation": {
+            "x": -12.308418839007636,
+            "y": 3.071947564884343
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_44",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.7350056355963287
+              },
+              "real": -0.6780609969918907
+            }
+          },
+          "translation": {
+            "x": -12.353794472226284,
+            "y": 2.824340748090287
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_45",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6999510506937467
+              },
+              "real": -0.7141908194822444
+            }
+          },
+          "translation": {
+            "x": -12.374050336099685,
+            "y": 2.5734268509231093
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_46",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6631226582407954
+              },
+              "real": -0.7485107481711009
+            }
+          },
+          "translation": {
+            "x": -12.368981232044906,
+            "y": 2.3217477139312632
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_47",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.6246137883075363
+              },
+              "real": -0.7809338099071576
+            }
+          },
+          "translation": {
+            "x": -12.33863851175819,
+            "y": 2.0718529297950576
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_48",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5845220296098891
+              },
+              "real": -0.811377838556573
+            }
+          },
+          "translation": {
+            "x": -12.283329557005336,
+            "y": 1.8262740151117618
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_49",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5429489822014789
+              },
+              "real": -0.8397656832273979
+            }
+          },
+          "translation": {
+            "x": -12.203614665743018,
+            "y": 1.5874987652973902
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2_50",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -12.100301376115649,
+            "y": 1.3579460523984785
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -12.100301376115649,
+            "y": 1.3579460523984785
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal2",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -12.050301376115648,
+            "y": 1.2713435120200347
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_0",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -12.000301376115647,
+            "y": 1.1847409716415909
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_1",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.950301376115647,
+            "y": 1.098138431263147
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_2",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.900301376115646,
+            "y": 1.0115358908847032
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_3",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.850301376115645,
+            "y": 0.9249333505062592
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_4",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.800301376115645,
+            "y": 0.8383308101278153
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_5",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.750301376115644,
+            "y": 0.7517282697493713
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_6",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.700301376115643,
+            "y": 0.6651257293709274
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_7",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.650301376115642,
+            "y": 0.5785231889924835
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_8",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.600301376115642,
+            "y": 0.49192064861403956
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_9",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.550301376115641,
+            "y": 0.40531810823559566
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_10",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.50030137611564,
+            "y": 0.31871556785715177
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_11",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.45030137611564,
+            "y": 0.23211302747870788
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_12",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.400301376115639,
+            "y": 0.14551048710026399
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_13",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.350301376115638,
+            "y": 0.05890794672182008
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_14",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.300301376115637,
+            "y": -0.027694593656623828
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_15",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.250301376115637,
+            "y": -0.11429713403506774
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_16",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.200301376115636,
+            "y": -0.20089967441351164
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_17",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.150301376115635,
+            "y": -0.28750221479195553
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_18",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.100301376115635,
+            "y": -0.37410475517039943
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_19",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.050301376115634,
+            "y": -0.4607072955488433
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_20",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -11.000301376115633,
+            "y": -0.5473098359272872
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_21",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.950301376115632,
+            "y": -0.6339123763057312
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_22",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.900301376115632,
+            "y": -0.7205149166841751
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_23",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.850301376115631,
+            "y": -0.8071174570626191
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_24",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.80030137611563,
+            "y": -0.893719997441063
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_25",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.75030137611563,
+            "y": -0.980322537819507
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_26",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.700301376115629,
+            "y": -1.066925078197951
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_27",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.650301376115628,
+            "y": -1.1535276185763947
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1_28",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      },
+      {
+        "aFromB": {
+          "rotation": {
+            "unitQuaternion": {
+              "imag": {
+                "z": 0.5000000000000002
+              },
+              "real": -0.8660254037844386
+            }
+          },
+          "translation": {
+            "x": -10.600301376115628,
+            "y": -1.2401301589548386
+          }
+        },
+        "frameA": "world",
+        "frameB": "goal1",
+        "tangentOfBInA": {
+          "linearVelocity": {},
+          "angularVelocity": {}
+        }
+      }
+    ]
+  }
+  
